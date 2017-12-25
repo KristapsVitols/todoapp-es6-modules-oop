@@ -152,4 +152,7 @@ background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, F
 	html {
 		font-size: 62.5%;
 	}
+	.container {
+		margin-top: 4rem;
+	}
 }

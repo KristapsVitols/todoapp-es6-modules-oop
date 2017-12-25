@@ -28,6 +28,7 @@ background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, F
 	align-items: center;
 	background-color: #555;
 	margin-top: 14rem;
+	margin-bottom: 4rem;
 	box-shadow: .3rem .3rem .5rem #000;
 	position: relative;
 }

@@ -5,7 +5,7 @@
 }
 
 html {
-	font-size: 62.5%;
+	font-size: 75%;
 }
 
 body {
@@ -146,4 +146,10 @@ background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, F
 .completed {
 	color: #444;
 	text-decoration: line-through;
+}
+
+@media screen and (max-width: 430px) {
+	html {
+		font-size: 62.5%;
+	}
 }
